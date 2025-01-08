@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-const KEY = "efd26e89";
+const KEY = "";
 
 function App() {
   const [movies, setMovies] = useState([]);
